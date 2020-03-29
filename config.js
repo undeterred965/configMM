@@ -114,7 +114,7 @@ var config = {
 			module: "MMM-CarouselSleep",
 			position: "bottom_bar",
 			config: {
-				timeToSleep: 20,	// In minutes.
+				timeToSleep: 30,	// In minutes.
 			}
 		}
 	]
