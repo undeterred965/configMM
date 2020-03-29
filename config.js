@@ -47,7 +47,7 @@ var config = {
 			header: "Weather:",
 			config: {
 				location: "Sedgefield, UK",
-				appid: "6343ecdc5eaa15a29b44592078374e7e"
+				appid: ""
 			}
 		},
 		{
@@ -56,7 +56,7 @@ var config = {
 			header: "Forecast:",
 			config: {
 				location: "Sedgefield, UK",
-				appid: "6343ecdc5eaa15a29b44592078374e7e",
+				appid: "",
 				maxNumberOfDays: 5,
 				fadePoint: 0.33
 			}
