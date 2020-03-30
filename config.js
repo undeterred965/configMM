@@ -108,15 +108,9 @@ var config = {
 				transitionTime: 200,		// In milliseconds.
 				sleepTransitionTime: 5000,	// In milliseconds.
 				wakeTransitionTime: 750,	// In milliseconds.
+				modulesBeforeSleep: 80,		//  Number of modules to be displayed before sleeping.
 			}
-                },
-		{
-			module: "MMM-CarouselSleep",
-			position: "bottom_bar",
-			config: {
-				timeToSleep: 30,	// In minutes.
-			}
-		}
+                }
 	]
 };
 
