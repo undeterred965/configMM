@@ -95,8 +95,8 @@ var config = {
 			position: "fullscreen",
 			config: {
 				opacity: 0.4,
-				animationSpeed: 500,		// In milliseconds.
-				updateInterval: 60,		// In seconds.
+				animationSpeed: 1000,		// In milliseconds.
+//				updateInterval: 60,		// In seconds.
 				url: 'https://picsum.photos/800/480/?random'
 			}
 		},
