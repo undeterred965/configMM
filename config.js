@@ -104,17 +104,15 @@ var config = {
 			module: "MMM-Carousel",
 			position: "bottom_bar",
 			config: {
-				moduleInterval: 15,		// In seconds.
-				transitionTime: 200,		// In milliseconds.
+				moduleInterval: 20,		// In seconds.
+				transitionTime: 400,		// In milliseconds.
 				sleepTransitionTime: 5000,	// In milliseconds.
-				wakeTransitionTime: 750,	// In milliseconds.
-				modulesBeforeSleep: 80,		//  Number of modules to be displayed before sleeping.
+				wakeTransitionTime: 1000,	// In milliseconds.
+				modulesBeforeSleep: 60,		//  Number of modules to be displayed before sleeping.
 			}
                 }
 	]
 };
-
-
 
 /*************** DO NOT EDIT THE LINE BELOW ***************/
 if (typeof module !== "undefined") {module.exports = config;}
