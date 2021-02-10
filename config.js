@@ -30,12 +30,6 @@ var config = {
 		{
 			module: "alert",
 		},
-/*
-		{
-			module: "updatenotification",
-			position: "top_bar"
-		},
-*/
 		{
 			module: "clock",
 			position: "middle_center",
@@ -67,7 +61,8 @@ var config = {
 			module: "MMM-DailyBibleVerse",
 			position: "middle_center",
 			config: {
-				version: "KJV"
+				version: "KJV",
+				size: "small"
 			}
 		},
 		{
