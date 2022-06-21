@@ -94,7 +94,7 @@ var config = {
 				opacity: 0.4,
 				animationSpeed: 1000,		// In milliseconds.
 //				updateInterval: 60,		// In seconds.
-				url: 'https://picsum.photos/800/480/?random'
+				url: 'https://picsum.photos/800/480'
 			}
 		},
 		{
